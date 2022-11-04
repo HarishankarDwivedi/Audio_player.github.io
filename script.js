@@ -22,9 +22,9 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   {
-    name: "Cheating on you",
-    artist: "Charlie Puth",
-    image: "covers/Cheating_on_You.jpg",
+    name: "One Right Now",
+    artist: "Post Malone",
+    image: "covers/One-Right-Now.jpg",
     path: "songs/1.mp3"
   },
   {
