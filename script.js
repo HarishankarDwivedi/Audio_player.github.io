@@ -34,9 +34,9 @@ let track_list = [
     path: "songs/2.mp3"
   },
   {
-    name: "High Hopes",
-    artist: "Panic at the disco",
-    image: "covers/High_Hopes.jpg",
+    name: "Other side",
+    artist: "Post Malone",
+    image: "covers/Otherside.jpg",
     path: "songs/3.mp3",
   },
   
